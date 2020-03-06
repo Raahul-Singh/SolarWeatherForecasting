@@ -1,2 +1,2 @@
 # SolarWeatherForecasting
-Repository for initial Sunspotter Dataset analysis
+Repository for Sunspotter Dataset analysis
